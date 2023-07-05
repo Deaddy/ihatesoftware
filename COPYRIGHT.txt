@@ -1,0 +1,2 @@
+Copyright 2023 Marcel Wunderlich. Distributed under the terms of the GNU
+General Public License version 2.
